@@ -74,9 +74,6 @@ You can use the event *Alkhachatryan\LaravelLoggable\Events\Logged* in pair with
 # Changelog
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
 
-# Todo
-Tests!!! Tests!!! Tests!!!
-
 # Security
 If you discover any security-related issues, please email info@khachatryan.org instead of using the issue tracker.
 
